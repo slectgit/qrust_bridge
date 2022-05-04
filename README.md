@@ -1,2 +1,2 @@
-# qrust_bridge
-qrust bind in Deno 🦕🦕🦕.
+# qrust Bridge
+#### qrust bind in Deno 🦕🦕🦕.
